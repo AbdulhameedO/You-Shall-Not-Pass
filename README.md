@@ -1,7 +1,6 @@
 # You-Shall-Not-Pass
 
-
-SecureGateVision is a Gate Access Control system that leverages image processing techniques for enhanced security. This project aims to provide a robust and efficient solution for gate access control using computer vision.
+You-Shall-Not-Pass is a Gate Access Control system that leverages image processing techniques for enhanced security. This project aims to provide a robust and efficient solution for gate access control using computer vision.
 
 ## Features
 
